@@ -1,0 +1,7 @@
+suites:
+    default:
+        namespace: GradeSchool\
+        psr4_prefix: GradeSchool\
+        src_path: src
+extensions:
+    LeanPHP\PhpSpec\CodeCoverage\CodeCoverageExtension: ~

@@ -1,0 +1,14 @@
+{
+    "name": "jlttt/grade-school",
+    "description": "A solution to the Grade School Kata",
+    "license": "unlicense",
+    "require-dev": {
+        "nunomaduro/phpinsights": "^1.7",
+        "leanphp/phpspec-code-coverage": "^4.2"
+    },
+    "autoload": {
+      "psr-4": {
+        "GradeSchool\\": "src/"
+      }
+    }
+}
